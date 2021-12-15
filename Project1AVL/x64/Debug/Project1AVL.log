@@ -1,0 +1,3 @@
+﻿  Project1AVL.cpp
+C:\Users\jenna\source\repos\Project1AVL\Project1AVL\Project1AVL.cpp(404): warning C4715: 'findInorderSuccessor': not all control paths return a value
+  Project1AVL.vcxproj -> C:\Users\jenna\source\repos\Project1AVL\x64\Debug\Project1AVL.exe
